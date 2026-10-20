@@ -1,3 +1,3 @@
 # c-program-practice
-<br>
+this is my first Git repository
 Author - Sadman Hossain
